@@ -1,0 +1,9 @@
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\bin\Debug\DynamicScheduler.exe.config
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\bin\Debug\DynamicScheduler.exe
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\bin\Debug\DynamicScheduler.pdb
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\obj\Debug\DynamicScheduler.csprojResolveAssemblyReference.cache
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\obj\Debug\DynamicScheduler.Form1.resources
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\obj\Debug\DynamicScheduler.Properties.Resources.resources
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\obj\Debug\DynamicScheduler.csproj.GenerateResource.Cache
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\obj\Debug\DynamicScheduler.exe
+C:\Users\Caleb\Source\Repos\DynamicScheduler\DynamicScheduler\obj\Debug\DynamicScheduler.pdb
