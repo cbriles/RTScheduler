@@ -22,3 +22,9 @@ D:\Code\Source\Repos\RTScheduler\obj\Debug\RTScheduler.csproj.GenerateResource.C
 D:\Code\Source\GitRepos\RTScheduler\bin\Debug\DynamicScheduler.exe.config
 D:\Code\Source\GitRepos\RTScheduler\obj\Debug\DynamicScheduler.exe
 D:\Code\Source\GitRepos\RTScheduler\obj\Debug\DynamicScheduler.pdb
+D:\Code\Source\GitRepos\RTScheduler\bin\Debug\DynamicScheduler.exe
+D:\Code\Source\GitRepos\RTScheduler\bin\Debug\DynamicScheduler.pdb
+D:\Code\Source\GitRepos\RTScheduler\obj\Debug\RTScheduler.csprojResolveAssemblyReference.cache
+D:\Code\Source\GitRepos\RTScheduler\obj\Debug\DynamicScheduler.Form1.resources
+D:\Code\Source\GitRepos\RTScheduler\obj\Debug\DynamicScheduler.Properties.Resources.resources
+D:\Code\Source\GitRepos\RTScheduler\obj\Debug\RTScheduler.csproj.GenerateResource.Cache

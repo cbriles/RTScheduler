@@ -21,6 +21,7 @@ namespace DynamicScheduler
 
         int lcmResult = 0;
         int numTasks = 0;
+        int goButtonClicks = 0;
         List<List<int>> ranOrNot = new List<List<int>>();
         List<List<int>> missTimes = new List<List<int>>();
         List<int> taskPeriods = new List<int>();
@@ -115,8 +116,13 @@ namespace DynamicScheduler
             return num2;
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void buttonGo_Click(object sender, EventArgs e)
         {
+            if (goButtonClicks > 0)
+                buttonReset.PerformClick();
+
+            goButtonClicks++;
+            
             #region Task Definitions & Get Values
 
             //double numTasks;
@@ -507,7 +513,7 @@ namespace DynamicScheduler
         }
         #endregion
 
-        private void button2_Click(object sender, EventArgs e)
+        private void buttonReset_Click(object sender, EventArgs e)
         {
             buttonGo.Controls.Clear();
             ranOrNot.Clear();

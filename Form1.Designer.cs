@@ -91,7 +91,7 @@
             this.buttonGo.TabIndex = 0;
             this.buttonGo.Text = "Go!";
             this.buttonGo.UseVisualStyleBackColor = true;
-            this.buttonGo.Click += new System.EventHandler(this.button1_Click);
+            this.buttonGo.Click += new System.EventHandler(this.buttonGo_Click);
             // 
             // menuStrip1
             // 
@@ -523,7 +523,7 @@
             this.buttonReset.TabIndex = 57;
             this.buttonReset.Text = "Reset";
             this.buttonReset.UseVisualStyleBackColor = true;
-            this.buttonReset.Click += new System.EventHandler(this.button2_Click);
+            this.buttonReset.Click += new System.EventHandler(this.buttonReset_Click);
             // 
             // timelinePanel
             // 
